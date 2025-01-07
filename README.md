@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dart programming: accessing an element in a list using an index that is out of bounds. The `bug.dart` file contains the erroneous code, while `bugSolution.dart` provides a corrected version.
